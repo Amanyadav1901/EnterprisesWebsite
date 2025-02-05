@@ -1,0 +1,11 @@
+Model Information:
+* title:	Green Blue - Globe
+* source:	https://sketchfab.com/3d-models/green-blue-globe-240fae6902024190aa5140a89f32e0b4
+* author:	Ricardo Garnica (https://sketchfab.com/rjgarnicap)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Green Blue - Globe" (https://sketchfab.com/3d-models/green-blue-globe-240fae6902024190aa5140a89f32e0b4) by Ricardo Garnica (https://sketchfab.com/rjgarnicap) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
