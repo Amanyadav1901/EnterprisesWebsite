@@ -168,13 +168,13 @@ const services = [
 
 const testimonials = [
   {
-    name: "Sara Lee",
+    name: "YAA Security",
     designation: "CFO",
     company: "Acme Co",
     image: client1,
   },
   {
-    name: "Chris Brown",
+    name: "L&L Security",
     designation: "COO",
     company: "DEF Corp",
     image: client2,
@@ -186,7 +186,7 @@ const testimonials = [
     image: client3,
   },
   {
-    name: "Lisa Wang",
+    name: "ireo",
     designation: "CTO",
     company: "456 Enterprises",
     image: client4,
